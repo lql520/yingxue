@@ -11,6 +11,7 @@ public class YingxueApplicationTests {
 
     @Test
     public void contextLoads() {
+        system.out.println("测试代码1");
     }
 
 }
